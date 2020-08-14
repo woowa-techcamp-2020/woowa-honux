@@ -27,3 +27,5 @@ npm run dev
 - nodemon
 
 ## 참고 자료
+
+- https://developer.github.com/v3/
